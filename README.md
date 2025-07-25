@@ -67,4 +67,4 @@ Visit the site 👉 [Aafiya's JRF Buddy](https://aafi7561.github.io/aafiyajrfbud
 
 Made with ❤️ by **Aafiya Pasha**  
 📩 aafishif@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/aafiya-pasha/)
+🔗🔗 [LinkedIn](https://www.linkedin.com/in/aafiya-pasha/)
