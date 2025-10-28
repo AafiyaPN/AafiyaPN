@@ -1,5 +1,3 @@
-Here’s a suggested README.md for your profile repository:
-
 # Hi, I’m Aafiya Pasha 👋
 
 I’m a data- and research-oriented developer with a strong foundation in mathematics and computer science. I work mainly with Jupyter Notebooks to explore data, prototype models, and document experiments.
@@ -30,9 +28,3 @@ This repository contains configuration files and Jupyter Notebooks that showcase
 ## Get in touch
 - LinkedIn: https://www.linkedin.com/in/aafiyapasha/  
 If you’d like to collaborate or have any questions about the notebooks in this repo, feel free to reach out on LinkedIn.
-
----
-
-Would you like me to commit this README.md directly to the repository? If yes, tell me the branch name you prefer (default: main) and I’ll push it for you.
-
-— GitHub Copilot Chat Assistant
