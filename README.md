@@ -1,70 +1,38 @@
-# 📘 Aafiya's JRF Buddy
+Here’s a suggested README.md for your profile repository:
 
-Welcome to **Aafiya's JRF Buddy**, a personalized platform designed to support students preparing for the **UGC NET with JRF in Computer Science**. This website offers structured study plans, short notes, quizzes, and motivational content to help you stay focused and succeed.
+# Hi, I’m Aafiya Pasha 👋
 
----
+I’m a data- and research-oriented developer with a strong foundation in mathematics and computer science. I work mainly with Jupyter Notebooks to explore data, prototype models, and document experiments.
 
-## 🌟 Features
+- 🎓 BSc. Mathematics — Cochin College  
+- 🎓 MSc. Computer Science — MES College Marampilly  
+- 🔗 LinkedIn: https://www.linkedin.com/in/aafiyapasha/
 
-- 📚 Topic-wise Notes for UGC NET CS
-- 📝 Practice Quizzes & Previous Year Questions
-- 📆 Weekly Study Planner
-- 🎧 Voice Notes (Malayalam explanations)
-- 💌 Email & WhatsApp Reminders
-- 💡 Motivational Quotes & Quranic Verses
+## About
+I combine a mathematical background with practical skills in programming and data analysis. I enjoy building reproducible analyses and clear, well-documented notebooks that make experiments easy to follow and share.
 
----
+## Skills
+- Python (pandas, numpy, scikit-learn)
+- Jupyter Notebooks & data visualization
+- Basic machine learning & statistical modeling
+- Git & version control
+- Problem solving using mathematical and computational techniques
 
-## 🛠 Built With
+## Notebooks & Projects
+This repository contains configuration files and Jupyter Notebooks that showcase projects, analyses, and learning experiments. Browse the notebooks to see examples of data exploration, modeling, and visualizations.
 
-- **React.js** – Frontend Framework  
-- **Tailwind CSS** – Styling  
-- **GitHub Pages** – Hosting  
-- **Markdown** – For content notes  
+## Interests
+- Data science & machine learning
+- Applied mathematics and statistics
+- Reproducible research and documentation
+- Learning new tools and collaborating on data-focused projects
 
----
-
-## 🚀 Getting Started (For Developers)
-
-```bash
-# Clone the repo
-git clone https://github.com/aafi7561/aafiyajrfbuddy.git
-
-# Navigate to the project directory
-cd aafiyajrfbuddy
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm start
-```
+## Get in touch
+- LinkedIn: https://www.linkedin.com/in/aafiyapasha/  
+If you’d like to collaborate or have any questions about the notebooks in this repo, feel free to reach out on LinkedIn.
 
 ---
 
-## 📂 Folder Structure
+Would you like me to commit this README.md directly to the repository? If yes, tell me the branch name you prefer (default: main) and I’ll push it for you.
 
-```bash
-/public
-/src
-  ├── components
-  ├── pages
-  ├── assets
-  ├── data
-README.md
-package.json
-```
-
----
-
-## ✨ Live Site
-
-Visit the site 👉 [Aafiya's JRF Buddy](https://aafi7561.github.io/aafiyajrfbuddy)
-
----
-
-## 📧 Contact
-
-Made with ❤️ by **Aafiya Pasha**  
-📩 aafishif@gmail.com  
-🔗🔗 [LinkedIn](https://www.linkedin.com/in/aafiya-pasha/)
+— GitHub Copilot Chat Assistant
